@@ -1,0 +1,22 @@
+# Tools
+
+## Design not tools
+
+I was asked to plan scheduling and capacity tool.
+I learned that the key thing was thinking about what data you want to capture and how you use it and not get dragged into tool wars and features.
+
+## On a fresh laptop
+
+## My favourite VS code / Positron extensions
+
+I use Positron as my daily IDE
+
+- [Synthwave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+- GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- [Gitmoji](https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode#:~:text=Open%20Visual%20Studio%20Code.,button%2C%20then%20the%20Enable%20button.)
+
+See why I love Gitmoji @sec-gitmoji
+## Maintain your tools
+
+Look after your biking/paddling kit -> look after your programming kit
+

@@ -1,0 +1,60 @@
+project:
+  type: book
+
+book:
+  title: "My garden"
+  author: "Rhian Davies"
+  repo-url: https://www.github.com/statsrhian/garden
+  repo-actions: [edit, issue]
+  sidebar:
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - part: "About me"
+      chapters: 
+        - now.qmd
+    - part: "Career 🎓"  
+    - part: "Teaching 👩‍🏫" 
+      chapters:
+        - training.qmd
+    - part: "Leadership ☂️"
+      chapters: 
+        - leadership.qmd
+        - teams.qmd
+    - part: "Consultancy 💼"
+      chapters: 
+        - consultancy.qmd
+    - part: "How I work 🚀"
+      chapters: 
+        - tools.qmd
+        - logging.qmd
+        - remote-working.qmd
+    - part: "Coding 👩‍💻"
+      chapters:
+        - code-style.qmd
+        - coding-community.qmd
+        - git-tips.qmd
+        - r.qmd
+        - shiny.qmd
+    - part: "Work-life balance 🧘‍♀️"
+      chapters: 
+        - remote-working.qmd
+        - log-off.qmd
+    - everything-else.qmd
+    - part: "Book Notes 📖"
+cover-image: flower.jpg
+cover-image-alt: "A pretty flower I like"
+navbar:
+  search: true
+bibliography: references.bib
+
+format:
+  html:
+    number-sections: false
+    code-overflow: wrap
+    theme:
+      - cosmo
+      - brand
+
+
+

@@ -1,0 +1,19 @@
+# Shiny
+
+## Shiny as a package
+
+Why I like shiny as a package
+
+Why I don't like {golem} / {rhino} / {leprechaun}
+
+What I do instead
+
+https://github.com/StatsRhian/nolem
+
+## Seperate UI and server
+
+- From Colin Fay's book
+
+## You don't need shiny to sparkle
+
+Sometimes a quarto dashboard (with some plotly) is perfect

@@ -1,0 +1,110 @@
+# Git tips
+
+## Branch to new repo
+
+- Create new repo
+- Checkout old repo locally
+- `git push https://github.com/accountname/new-repo.git +new-project:master`
+
+## Ignore blame
+
+Useful for with air formatting @sec-airformatting
+
+- TIL - you can use git blame ignore to ignore commits that just do formatting in blame
+- How we [implemented it](https://github.com/The-Strategy-Unit/nhp_outputs/pull/336)
+- What it looks like [in practice](https://github.com/The-Strategy-Unit/nhp_outputs/blame/main/R/fct_get_data.R)
+
+## Use the force, wisely {#sec-gitforce}
+
+I used to be scared to force push to a repo. Once I got more comfortable with @sec-gitrebase I started doing it more often. However, I never type `git push --force` instead I always use `git push --force-with-lease`.
+
+The latter will not overwrite any work on the remote branch if more commits have been added. This ensures you do not overwrite someone elses work by force pushing - much safer.
+
+## Gitmoji taught me to love modular commits 😍{#sec-gitmoji}
+
+I started using [Gitmoji](https://gitmoji.dev/) because it looked fun 🌟 but eventually, it changed how I write commits.
+
+Picking an emoji forced me to pause and ask: What’s actually happening in this commit? Instead of dumping changes together, I began writing smaller, focused commits with clear messages. 
+
+I also had to learn a little of how to rebase, as I found my
+
+That shift led me to embrace rebase: squashing clutter, rewording for clarity, and keeping histories clean. Reviews got easier too—stepping through commits in GitHub became smooth and logical.
+
+Gitmoji didn’t just make my commits pretty, it made them better. And my work day got a little more fun too 🦩
+
+## The GitHub Golf trophy ⛳
+
+## GitHub rulesets
+
+### What
+
+Rulesets help you to control how people can interact with branches and tags in a repository. 
+A ruleset is a named list of rules that applies to a repository. You can have up to 75 rulesets per repository.
+
+## Who can use them
+
+- Public repos for GitHub free, public and private repositories with paid plans
+- Paid feature: you can set up organisation level rulesets
+
+### What can you control
+
+- Who can push to a branch
+- Require approvals (how many, who can review)
+- Commit style (paid only)
+
+### How are they different from branch protection?
+
+- Can be toggled as active / inactive without being deleted
+- Can apply at the same time
+- Visible to anyone with read access, meaning as a developer you can understand what the issue is
+- You can enforce conventional commits. (paid only) 
+    - Can I enforce gitmoji commits on my repo?
+
+
+### How do I get started?
+
+GitHub has a couple of pre-made rulesets: https://github.com/github/ruleset-recipes
+
+You can also use the GUI to make some rulesets, and then export them and share them.
+
+- You can protect main - here's how
+
+- You can skip the approval - handy for bots like all-contributors
+
+- You can export / import them
+
+## Using GitHub efficiently
+
+- keyboard shortcuts
+- reviewing commit-by-commit
+- setting up personal filters
+
+## GitHub
+
+## Who has been committing in _my_ repo - CODEOWNERS
+
+Why/Why/How of CODEOWNERS 
+
+Different in GitHub / GitLab
+
+## Git for organisations 
+
+What to consider
+
+Types of projects
+Templates
+Rulesets
+CODEOWNERS
+
+## How I learned to fork
+
+- 2048 game
+
+## Project management in GitHub
+
+Issue boards
+Labels
+CODEOWNERS
+GitHub settings
+CI / CD
+templates

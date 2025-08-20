@@ -1,0 +1,492 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My garden",
+    "section": "",
+    "text": "Welcome 🌸\nWelcome to my digital garden.\nI made this garden for me, but you’re welcome to wander through it.\n\nposts growing over time - shared early and developed in public\nconstantly growing, evolving, and changing",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome 🌸</span>"
+    ]
+  },
+  {
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "Now",
+    "section": "",
+    "text": "What I’m focusing on now",
+    "crumbs": [
+      "About me",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Now</span>"
+    ]
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training others",
+    "section": "",
+    "text": "What happens next?\nRemember that bit of “You’ve been framed” where the video would start to play before the ad break and then you had to guess what happens next?",
+    "crumbs": [
+      "Teaching 👩‍🏫",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+    ]
+  },
+  {
+    "objectID": "training.html#what-happens-next",
+    "href": "training.html#what-happens-next",
+    "title": "Training others",
+    "section": "",
+    "text": "I use this technique when teaching all the time\nType something into the console\nI ask myself (literally outloud) what is going to happen when I press this button",
+    "crumbs": [
+      "Teaching 👩‍🏫",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+    ]
+  },
+  {
+    "objectID": "training.html#embarassing-moments",
+    "href": "training.html#embarassing-moments",
+    "title": "Training others",
+    "section": "Embarassing moments",
+    "text": "Embarassing moments\ndata(afinn, package = “jrTidyverse2”) afinn %&gt;% filter(value == -5) sharing screen with whatsapp / slack open\n“starfucks”\nSharing screen whilst tidytuesday was a sweary one\nDrawing a map of Anglesey",
+    "crumbs": [
+      "Teaching 👩‍🏫",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+    ]
+  },
+  {
+    "objectID": "training.html#share-what-we-learned-notes-afterwards",
+    "href": "training.html#share-what-we-learned-notes-afterwards",
+    "title": "Training others",
+    "section": "Share “what we learned” notes afterwards",
+    "text": "Share “what we learned” notes afterwards",
+    "crumbs": [
+      "Teaching 👩‍🏫",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+    ]
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership",
+    "section": "",
+    "text": "Thinking up / thinking down model",
+    "crumbs": [
+      "Leadership ☂️",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Leadership</span>"
+    ]
+  },
+  {
+    "objectID": "leadership.html#first-11",
+    "href": "leadership.html#first-11",
+    "title": "Leadership",
+    "section": "First 1:1",
+    "text": "First 1:1",
+    "crumbs": [
+      "Leadership ☂️",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Leadership</span>"
+    ]
+  },
+  {
+    "objectID": "leadership.html#bring-positivity",
+    "href": "leadership.html#bring-positivity",
+    "title": "Leadership",
+    "section": "Bring positivity",
+    "text": "Bring positivity\nLike Gemma told me, your vibes spread",
+    "crumbs": [
+      "Leadership ☂️",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Leadership</span>"
+    ]
+  },
+  {
+    "objectID": "teams.html",
+    "href": "teams.html",
+    "title": "Teams",
+    "section": "",
+    "text": "MDT for data\nWe’re too isolated.\nMDT’s are a thing in healthcare a team working together\nData scientists sometimes hate data 😲\nThe value of having great analysts, sense-checkers and pipeline people\nEveryone has different views based on where they sit (and what their history is)\nCould work with the DS game\nThe uber skill is finding where your blindspots are and surrounding yourself with people who cover those In the 70s you could do it all, now varied teams are essential What are the impacts on career progression? What are the boundaries and overlaps We saw this with BI vs analysts Justine’s title has changed over the years",
+    "crumbs": [
+      "Leadership ☂️",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Teams</span>"
+    ]
+  },
+  {
+    "objectID": "consultancy.html",
+    "href": "consultancy.html",
+    "title": "Consultancy",
+    "section": "",
+    "text": "Clarity over availability\nWhy are we always on? Choose auto-reporting and planned meetings over slack channels",
+    "crumbs": [
+      "Consultancy 💼",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Consultancy</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools",
+    "section": "",
+    "text": "Design not tools\nI was asked to plan scheduling and capacity tool. I learned that the key thing was thinking about what data you want to capture and how you use it and not get dragged into tool wars and features.",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tools</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html#on-a-fresh-laptop",
+    "href": "tools.html#on-a-fresh-laptop",
+    "title": "Tools",
+    "section": "On a fresh laptop",
+    "text": "On a fresh laptop",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tools</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html#my-favourite-vs-code-positron-extensions",
+    "href": "tools.html#my-favourite-vs-code-positron-extensions",
+    "title": "Tools",
+    "section": "My favourite VS code / Positron extensions",
+    "text": "My favourite VS code / Positron extensions\nI use Positron as my daily IDE\n\nSynthwave ’84 theme\nGitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)\nGitmoji\n\nSee why I love Gitmoji Gitmoji taught me to love modular commits 😍 ## Maintain your tools\nLook after your biking/paddling kit -&gt; look after your programming kit",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tools</span>"
+    ]
+  },
+  {
+    "objectID": "logging.html",
+    "href": "logging.html",
+    "title": "Logging",
+    "section": "",
+    "text": "Keep a Nice stuff list\nI keep a nice stuff list. It started when I was tw\nI like it because - feel better when I feel rubbish - culture of sharing feedback - habit - reminds me to seek out feedback - useful for CV\nI keep mine publicly: https://github.com/statsrhian/nice-stuff",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Logging</span>"
+    ]
+  },
+  {
+    "objectID": "remote-working.html",
+    "href": "remote-working.html",
+    "title": "Remote working",
+    "section": "",
+    "text": "Why I won’t go back to the office",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Remote working</span>"
+    ]
+  },
+  {
+    "objectID": "remote-working.html#facilitating-team-trust-online",
+    "href": "remote-working.html#facilitating-team-trust-online",
+    "title": "Remote working",
+    "section": "Facilitating team trust online",
+    "text": "Facilitating team trust online\n\nPlaying geoguessr\nCoworking hours\nBeing willing to just hop on a call",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Remote working</span>"
+    ]
+  },
+  {
+    "objectID": "remote-working.html#randomised-coffee-trials-rct",
+    "href": "remote-working.html#randomised-coffee-trials-rct",
+    "title": "Remote working",
+    "section": "Randomised Coffee Trials (RCT)",
+    "text": "Randomised Coffee Trials (RCT)\n\nWe use these at The Strategy Unit to encourage cross-team chats.\nRainbowR also use a buddy scheme to get community members to connect.\nMy PhD scheme has used it to allow current students to network with alumni",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Remote working</span>"
+    ]
+  },
+  {
+    "objectID": "code-style.html",
+    "href": "code-style.html",
+    "title": "Code style",
+    "section": "",
+    "text": "Air formatting",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Code style</span>"
+    ]
+  },
+  {
+    "objectID": "coding-community.html",
+    "href": "coding-community.html",
+    "title": "Coding community",
+    "section": "",
+    "text": "Why I don’t do advent of code\nEvery December, my timeline fills with people tackling Advent of Code, and every year, I feel like I should take part. But honestly it just stresses me out.\nMaybe the solution isn’t skipping it entirely but doing it my way. Instead of racing through daily problems, what if I just picked one challenge and did it really well? Fully documented, tested, and even turned into a fun little project.\nSetting a time limit and sharing my progress publicly—showing what I can do in, say, 30 minutes and letting go of perfectionism. Like how [Nicola Rennie did 15 minute maps for the #30DayMapChallenge(https://github.com/tjukanovt/30DayMapChallenge), but for AoC.",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Coding community</span>"
+    ]
+  },
+  {
+    "objectID": "coding-community.html#why-i-dont-do-advent-of-code",
+    "href": "coding-community.html#why-i-dont-do-advent-of-code",
+    "title": "Coding community",
+    "section": "",
+    "text": "I feel like I have to participate and have to get everything right (which, I know, isn’t the point—it’s about learning).\nI don’t enjoy the pressure. The daily pace makes me feel like I’m falling behind before I’ve even started.\nI want to prioritise getting outside during winter, not spending more time huddled over a laptop.\nI love puzzles—cryptic crosswords, Connections, lateral thinking games—but I don’t love these kinds of algorithm-heavy coding challenges. I have way more fun spinning up a website or building an R package.",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Coding community</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html",
+    "href": "git-tips.html",
+    "title": "Git tips",
+    "section": "",
+    "text": "Branch to new repo",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#branch-to-new-repo",
+    "href": "git-tips.html#branch-to-new-repo",
+    "title": "Git tips",
+    "section": "",
+    "text": "Create new repo\nCheckout old repo locally\ngit push https://github.com/accountname/new-repo.git +new-project:master",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#ignore-blame",
+    "href": "git-tips.html#ignore-blame",
+    "title": "Git tips",
+    "section": "Ignore blame",
+    "text": "Ignore blame\nUseful for with air formatting Air formatting\n\nTIL - you can use git blame ignore to ignore commits that just do formatting in blame\nHow we implemented it\nWhat it looks like in practice",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#sec-gitforce",
+    "href": "git-tips.html#sec-gitforce",
+    "title": "Git tips",
+    "section": "Use the force, wisely",
+    "text": "Use the force, wisely\nI used to be scared to force push to a repo. Once I got more comfortable with ?sec-gitrebase I started doing it more often. However, I never type git push --force instead I always use git push --force-with-lease.\nThe latter will not overwrite any work on the remote branch if more commits have been added. This ensures you do not overwrite someone elses work by force pushing - much safer.",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#sec-gitmoji",
+    "href": "git-tips.html#sec-gitmoji",
+    "title": "Git tips",
+    "section": "Gitmoji taught me to love modular commits 😍",
+    "text": "Gitmoji taught me to love modular commits 😍\nI started using Gitmoji because it looked fun 🌟 but eventually, it changed how I write commits.\nPicking an emoji forced me to pause and ask: What’s actually happening in this commit? Instead of dumping changes together, I began writing smaller, focused commits with clear messages.\nI also had to learn a little of how to rebase, as I found my\nThat shift led me to embrace rebase: squashing clutter, rewording for clarity, and keeping histories clean. Reviews got easier too—stepping through commits in GitHub became smooth and logical.\nGitmoji didn’t just make my commits pretty, it made them better. And my work day got a little more fun too 🦩",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#the-github-golf-trophy",
+    "href": "git-tips.html#the-github-golf-trophy",
+    "title": "Git tips",
+    "section": "The GitHub Golf trophy ⛳",
+    "text": "The GitHub Golf trophy ⛳",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#github-rulesets",
+    "href": "git-tips.html#github-rulesets",
+    "title": "Git tips",
+    "section": "GitHub rulesets",
+    "text": "GitHub rulesets\n\nWhat\nRulesets help you to control how people can interact with branches and tags in a repository. A ruleset is a named list of rules that applies to a repository. You can have up to 75 rulesets per repository.",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#who-can-use-them",
+    "href": "git-tips.html#who-can-use-them",
+    "title": "Git tips",
+    "section": "Who can use them",
+    "text": "Who can use them\n\nPublic repos for GitHub free, public and private repositories with paid plans\nPaid feature: you can set up organisation level rulesets\n\n\nWhat can you control\n\nWho can push to a branch\nRequire approvals (how many, who can review)\nCommit style (paid only)\n\n\n\nHow are they different from branch protection?\n\nCan be toggled as active / inactive without being deleted\nCan apply at the same time\nVisible to anyone with read access, meaning as a developer you can understand what the issue is\nYou can enforce conventional commits. (paid only)\n\nCan I enforce gitmoji commits on my repo?\n\n\n\n\nHow do I get started?\nGitHub has a couple of pre-made rulesets: https://github.com/github/ruleset-recipes\nYou can also use the GUI to make some rulesets, and then export them and share them.\n\nYou can protect main - here’s how\nYou can skip the approval - handy for bots like all-contributors\nYou can export / import them",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#using-github-efficiently",
+    "href": "git-tips.html#using-github-efficiently",
+    "title": "Git tips",
+    "section": "Using GitHub efficiently",
+    "text": "Using GitHub efficiently\n\nkeyboard shortcuts\nreviewing commit-by-commit\nsetting up personal filters",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#github",
+    "href": "git-tips.html#github",
+    "title": "Git tips",
+    "section": "GitHub",
+    "text": "GitHub",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#who-has-been-committing-in-my-repo---codeowners",
+    "href": "git-tips.html#who-has-been-committing-in-my-repo---codeowners",
+    "title": "Git tips",
+    "section": "Who has been committing in my repo - CODEOWNERS",
+    "text": "Who has been committing in my repo - CODEOWNERS\nWhy/Why/How of CODEOWNERS\nDifferent in GitHub / GitLab",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#git-for-organisations",
+    "href": "git-tips.html#git-for-organisations",
+    "title": "Git tips",
+    "section": "Git for organisations",
+    "text": "Git for organisations\nWhat to consider\nTypes of projects Templates Rulesets CODEOWNERS",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#how-i-learned-to-fork",
+    "href": "git-tips.html#how-i-learned-to-fork",
+    "title": "Git tips",
+    "section": "How I learned to fork",
+    "text": "How I learned to fork\n\n2048 game",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#project-management-in-github",
+    "href": "git-tips.html#project-management-in-github",
+    "title": "Git tips",
+    "section": "Project management in GitHub",
+    "text": "Project management in GitHub\nIssue boards Labels CODEOWNERS GitHub settings CI / CD templates",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "r.html",
+    "href": "r.html",
+    "title": "R",
+    "section": "",
+    "text": "Saving lists to excel tabs\nYou can save each cut of the diamonds dataset to a different tab (sheet) in a single Excel file using the writexl or openxlsx package in R. Here’s a programmatic approach using writexl for simplicity:\nlibrary(ggplot2) library(dplyr) library(writexl)\ndata(\"diamonds\")\ndiamonds_split &lt;- split(diamonds, diamonds$cut)\nwrite_xlsx(diamonds_split, path = \"diamonds_by_cut.xlsx\")\nsplit(): Splits the dataset into a list of data frames by cut. The names of the list (Ideal, Premium, etc.) become the sheet names automatically. write_xlsx(): Takes the list and writes each element to a separate sheet in a single Excel file.\nEach sheet will correspond to a different diamond cut (Ideal, Premium, Good, Very Good, Fair). If you need more customization (like formatting, adding formulas, etc.), the openxlsx package would be ideal, but for straightforward tabbed exports, writexl is quick and clean.",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>R</span>"
+    ]
+  },
+  {
+    "objectID": "shiny.html",
+    "href": "shiny.html",
+    "title": "Shiny",
+    "section": "",
+    "text": "Shiny as a package\nWhy I like shiny as a package\nWhy I don’t like {golem} / {rhino} / {leprechaun}\nWhat I do instead\nhttps://github.com/StatsRhian/nolem",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Shiny</span>"
+    ]
+  },
+  {
+    "objectID": "shiny.html#seperate-ui-and-server",
+    "href": "shiny.html#seperate-ui-and-server",
+    "title": "Shiny",
+    "section": "Seperate UI and server",
+    "text": "Seperate UI and server\n\nFrom Colin Fay’s book",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Shiny</span>"
+    ]
+  },
+  {
+    "objectID": "shiny.html#you-dont-need-shiny-to-sparkle",
+    "href": "shiny.html#you-dont-need-shiny-to-sparkle",
+    "title": "Shiny",
+    "section": "You don’t need shiny to sparkle",
+    "text": "You don’t need shiny to sparkle\nSometimes a quarto dashboard (with some plotly) is perfect",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Shiny</span>"
+    ]
+  },
+  {
+    "objectID": "log-off.html",
+    "href": "log-off.html",
+    "title": "Log off",
+    "section": "",
+    "text": "Before You Set Your Out-of-Office, Do This\nThe week before a holiday used to be chaos for me—scrambling to finish everything before setting my out-of-office. And coming back? Even worse. I’d stare at my inbox, wondering what I was even working on before I left. Then I found a simple fix: writing a quick note to future me before I log off.\nWhy does this work?✨ You don’t need to finish everything before your holiday. Take the pressure off! Instead, capture the important things so you can pick up easily when you’re back.\nHere’s what I include: 📋 Project Summary: Where I’m at and what’s next ✅ Unfinished Tasks: Priorities for when I return 💡 New Ideas: So I don’t lose good thoughts 🔧 Easy First-Day Tasks: Small wins to get back into it\nThis tiny habit makes the first day back feel productive and way less overwhelming. So before your next break, take five minutes to write that note to future you. Your post-holiday self will thank you!\nAnd with that, I’m off to Skye. See you in a week 👋",
+    "crumbs": [
+      "Work-life balance 🧘‍♀️",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Log off</span>"
+    ]
+  },
+  {
+    "objectID": "log-off.html#log-off---publicly",
+    "href": "log-off.html#log-off---publicly",
+    "title": "Log off",
+    "section": "Log off - publicly",
+    "text": "Log off - publicly\nI post on slack / calendar when I’m going for a run\nI started a Strava group for my company. My boss gives me kudos for getting out in the day time\nGoing for a run in the middle of the day in winter makes me a better coder\nSee also #flexibility",
+    "crumbs": [
+      "Work-life balance 🧘‍♀️",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Log off</span>"
+    ]
+  },
+  {
+    "objectID": "everything-else.html",
+    "href": "everything-else.html",
+    "title": "Everything else",
+    "section": "",
+    "text": "Public speaking",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+    ]
+  },
+  {
+    "objectID": "everything-else.html#public-speaking",
+    "href": "everything-else.html#public-speaking",
+    "title": "Everything else",
+    "section": "",
+    "text": "The power of the pause\nSay your name slowly - it’s new to the people hearing it",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+    ]
+  },
+  {
+    "objectID": "everything-else.html#conferences",
+    "href": "everything-else.html#conferences",
+    "title": "Everything else",
+    "section": "Conferences",
+    "text": "Conferences\n\nIntrovert guide\nWhy I love the hallway track\n\n\nWhy I started a digital garden.\nMatt was chatting about week notes - and built jot Claire pointed out I had 50+ ideas for blogs that were realistically never going to be written We keep talking in the team about being less perfectionist and learning in public()",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+    ]
+  },
+  {
+    "objectID": "everything-else.html#keeping-writing-flowing",
+    "href": "everything-else.html#keeping-writing-flowing",
+    "title": "Everything else",
+    "section": "Keeping writing flowing",
+    "text": "Keeping writing flowing\nWill Medd techniques\nSplit editing and writing When writing and you get stuck jump to “about the doc” and keep writing. Hiding the words can help.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+    ]
+  }
+]
