@@ -2,8 +2,7 @@
 
 ## Saving lists to excel tabs
 
-```{r}
-#| eval: false
+```
 library(ggplot2)
 data("diamonds")
 diamonds_split <- dplyr::split(diamonds, diamonds$cut)
