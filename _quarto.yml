@@ -33,6 +33,7 @@ book:
       chapters:
         - code-style.qmd
         - coding-community.qmd
+        - data-wrangling.qmd
         - git-tips.qmd
         - r.qmd
         - shiny.qmd

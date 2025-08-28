@@ -197,6 +197,17 @@
     ]
   },
   {
+    "objectID": "remote-working.html#how-to-run-a-good-standup-team-meeting",
+    "href": "remote-working.html#how-to-run-a-good-standup-team-meeting",
+    "title": "Remote working",
+    "section": "How to run a good standup / team meeting",
+    "text": "How to run a good standup / team meeting\nWe have a team meeting every Monday. We like to check in on how everyone is, but as the team has grown, not everyone has time to speak. This is what we currently do.\nIn advance of the weekly stand-up, all team members share a short summary, in Slack, answering the following questions:\n\n⭐ What went well last week\n🦉 What lessons did you learn\n🎯 Goal(s) for this week\n\nTwo folk are randomly selected to actually speak in the meeting. This keeps standups not too long, whilst making sure it’s not just the same voices always sharing.\nWe encourage reflection over listing\nE.g. - :x: C&C was good, nice retro, did some inputs dev, caught up on my emails. - :white_check_mark: I’ve been practicing being less self-deprecating in meetings and successfully did a coffee & code session without down-talking my ability :raised_hands::skin-tone-2:",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Remote working</span>"
+    ]
+  },
+  {
     "objectID": "code-style.html",
     "href": "code-style.html",
     "title": "Code style",
@@ -230,6 +241,28 @@
     ]
   },
   {
+    "objectID": "data-wrangling.html",
+    "href": "data-wrangling.html",
+    "title": "Data wrangling",
+    "section": "",
+    "text": "Dates are dates, not numbers\nI find treating dates as numeric a little confusing in code.\nEspecially finacial years.",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data wrangling</span>"
+    ]
+  },
+  {
+    "objectID": "data-wrangling.html#dates-are-dates-not-numbers",
+    "href": "data-wrangling.html#dates-are-dates-not-numbers",
+    "title": "Data wrangling",
+    "section": "",
+    "text": "# TODO: revisit why start year and end year are formatted differently\n        choices = c(\"2023/24\" = 202324),\n        selected = as.character(\n          (default_baseline_year * 100) + ((default_baseline_year + 1) %% 100)\n        )",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data wrangling</span>"
+    ]
+  },
+  {
     "objectID": "git-tips.html",
     "href": "git-tips.html",
     "title": "Git tips",
@@ -237,7 +270,7 @@
     "text": "Branch to new repo",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -248,7 +281,7 @@
     "text": "Create new repo\nCheckout old repo locally\ngit push https://github.com/accountname/new-repo.git +new-project:master",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -259,7 +292,7 @@
     "text": "Ignore blame\nUseful for with air formatting Air formatting\n\nTIL - you can use git blame ignore to ignore commits that just do formatting in blame\nHow we implemented it\nWhat it looks like in practice",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -270,7 +303,7 @@
     "text": "Use the force, wisely\nI used to be scared to force push to a repo. Once I got more comfortable with ?sec-gitrebase I started doing it more often. However, I never type git push --force instead I always use git push --force-with-lease.\nThe latter will not overwrite any work on the remote branch if more commits have been added. This ensures you do not overwrite someone elses work by force pushing - much safer.",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -281,7 +314,7 @@
     "text": "Gitmoji taught me to love modular commits 😍\nI started using Gitmoji because it looked fun 🌟 but eventually, it changed how I write commits.\nPicking an emoji forced me to pause and ask: What’s actually happening in this commit? Instead of dumping changes together, I began writing smaller, focused commits with clear messages.\nI also had to learn a little of how to rebase, as I found my\nThat shift led me to embrace rebase: squashing clutter, rewording for clarity, and keeping histories clean. Reviews got easier too—stepping through commits in GitHub became smooth and logical.\nGitmoji didn’t just make my commits pretty, it made them better. And my work day got a little more fun too 🦩",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -292,7 +325,7 @@
     "text": "The GitHub Golf trophy ⛳",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -303,7 +336,7 @@
     "text": "GitHub rulesets\n\nWhat\nRulesets help you to control how people can interact with branches and tags in a repository. A ruleset is a named list of rules that applies to a repository. You can have up to 75 rulesets per repository.",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -314,7 +347,7 @@
     "text": "Who can use them\n\nPublic repos for GitHub free, public and private repositories with paid plans\nPaid feature: you can set up organisation level rulesets\n\n\nWhat can you control\n\nWho can push to a branch\nRequire approvals (how many, who can review)\nCommit style (paid only)\n\n\n\nHow are they different from branch protection?\n\nCan be toggled as active / inactive without being deleted\nCan apply at the same time\nVisible to anyone with read access, meaning as a developer you can understand what the issue is\nYou can enforce conventional commits. (paid only)\n\nCan I enforce gitmoji commits on my repo?\n\n\n\n\nHow do I get started?\nGitHub has a couple of pre-made rulesets: https://github.com/github/ruleset-recipes\nYou can also use the GUI to make some rulesets, and then export them and share them.\n\nYou can protect main - here’s how\nYou can skip the approval - handy for bots like all-contributors\nYou can export / import them",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -325,7 +358,7 @@
     "text": "Using GitHub efficiently\n\nkeyboard shortcuts\nreviewing commit-by-commit\nsetting up personal filters",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -336,7 +369,7 @@
     "text": "GitHub",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -347,7 +380,7 @@
     "text": "Who has been committing in my repo - CODEOWNERS\nWhy/Why/How of CODEOWNERS\nDifferent in GitHub / GitLab",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -358,7 +391,7 @@
     "text": "Git for organisations\nWhat to consider\nTypes of projects Templates Rulesets CODEOWNERS",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -369,7 +402,7 @@
     "text": "How I learned to fork\n\n2048 game",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -380,7 +413,7 @@
     "text": "Project management in GitHub\nIssue boards Labels CODEOWNERS GitHub settings CI / CD templates",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Git tips</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
     ]
   },
   {
@@ -391,7 +424,7 @@
     "text": "Saving lists to excel tabs\nYou can save each cut of the diamonds dataset to a different tab (sheet) in a single Excel file using the writexl or openxlsx package in R. Here’s a programmatic approach using writexl for simplicity:\nlibrary(ggplot2) library(dplyr) library(writexl)\ndata(\"diamonds\")\ndiamonds_split &lt;- split(diamonds, diamonds$cut)\nwrite_xlsx(diamonds_split, path = \"diamonds_by_cut.xlsx\")\nsplit(): Splits the dataset into a list of data frames by cut. The names of the list (Ideal, Premium, etc.) become the sheet names automatically. write_xlsx(): Takes the list and writes each element to a separate sheet in a single Excel file.\nEach sheet will correspond to a different diamond cut (Ideal, Premium, Good, Very Good, Fair). If you need more customization (like formatting, adding formulas, etc.), the openxlsx package would be ideal, but for straightforward tabbed exports, writexl is quick and clean.",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>R</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>R</span>"
     ]
   },
   {
@@ -402,7 +435,7 @@
     "text": "Shiny as a package\nWhy I like shiny as a package\nWhy I don’t like {golem} / {rhino} / {leprechaun}\nWhat I do instead\nhttps://github.com/StatsRhian/nolem",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Shiny</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Shiny</span>"
     ]
   },
   {
@@ -413,7 +446,7 @@
     "text": "Seperate UI and server\n\nFrom Colin Fay’s book",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Shiny</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Shiny</span>"
     ]
   },
   {
@@ -424,7 +457,7 @@
     "text": "You don’t need shiny to sparkle\nSometimes a quarto dashboard (with some plotly) is perfect",
     "crumbs": [
       "Coding 👩‍💻",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Shiny</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Shiny</span>"
     ]
   },
   {
@@ -435,7 +468,7 @@
     "text": "Before You Set Your Out-of-Office, Do This\nThe week before a holiday used to be chaos for me—scrambling to finish everything before setting my out-of-office. And coming back? Even worse. I’d stare at my inbox, wondering what I was even working on before I left. Then I found a simple fix: writing a quick note to future me before I log off.\nWhy does this work?✨ You don’t need to finish everything before your holiday. Take the pressure off! Instead, capture the important things so you can pick up easily when you’re back.\nHere’s what I include: 📋 Project Summary: Where I’m at and what’s next ✅ Unfinished Tasks: Priorities for when I return 💡 New Ideas: So I don’t lose good thoughts 🔧 Easy First-Day Tasks: Small wins to get back into it\nThis tiny habit makes the first day back feel productive and way less overwhelming. So before your next break, take five minutes to write that note to future you. Your post-holiday self will thank you!\nAnd with that, I’m off to Skye. See you in a week 👋",
     "crumbs": [
       "Work-life balance 🧘‍♀️",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Log off</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Log off</span>"
     ]
   },
   {
@@ -446,7 +479,7 @@
     "text": "Log off - publicly\nI post on slack / calendar when I’m going for a run\nI started a Strava group for my company. My boss gives me kudos for getting out in the day time\nGoing for a run in the middle of the day in winter makes me a better coder\nSee also #flexibility",
     "crumbs": [
       "Work-life balance 🧘‍♀️",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Log off</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Log off</span>"
     ]
   },
   {
@@ -456,7 +489,7 @@
     "section": "",
     "text": "Public speaking",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Everything else</span>"
     ]
   },
   {
@@ -466,7 +499,7 @@
     "section": "",
     "text": "The power of the pause\nSay your name slowly - it’s new to the people hearing it",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Everything else</span>"
     ]
   },
   {
@@ -476,7 +509,7 @@
     "section": "Conferences",
     "text": "Conferences\n\nIntrovert guide\nWhy I love the hallway track\n\n\nWhy I started a digital garden.\nMatt was chatting about week notes - and built jot Claire pointed out I had 50+ ideas for blogs that were realistically never going to be written We keep talking in the team about being less perfectionist and learning in public()",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Everything else</span>"
     ]
   },
   {
@@ -486,7 +519,7 @@
     "section": "Keeping writing flowing",
     "text": "Keeping writing flowing\nWill Medd techniques\nSplit editing and writing When writing and you get stuck jump to “about the doc” and keep writing. Hiding the words can help.",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Everything else</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Everything else</span>"
     ]
   }
 ]
