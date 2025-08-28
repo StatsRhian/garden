@@ -12,7 +12,7 @@ book:
   navbar:
     search: true
   favicon: favicon.ico
-  #site-url: https://r4ds.hadley.nz/
+  site-url: https://www.statsrhian-garden.netlify.app
   repo-url: https://www.github.com/statsrhian/garden
   repo-branch: main
   repo-actions: [edit, issue]
