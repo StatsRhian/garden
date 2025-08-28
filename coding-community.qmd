@@ -11,4 +11,4 @@ Every December, my timeline fills with people tackling Advent of Code, and every
 
 Maybe the solution isn’t skipping it entirely but doing it my way. Instead of racing through daily problems, what if I just picked one challenge and did it really well? Fully documented, tested, and even turned into a fun little project.
 
-Setting a time limit and sharing my progress publicly—showing what I can do in, say, 30 minutes and letting go of perfectionism. Like how [Nicola Rennie did [15 minute maps](https://nrennie.rbind.io/blog/30-day-map-challenge-2022/) for the #30DayMapChallenge(https://github.com/tjukanovt/30DayMapChallenge), but for AoC.
+Setting a time limit and sharing my progress publicly—showing what I can do in, say, 30 minutes and letting go of perfectionism. Like how Nicola Rennie did [15 minute maps](https://nrennie.rbind.io/blog/30-day-map-challenge-2022/) for the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge), but for AoC.
