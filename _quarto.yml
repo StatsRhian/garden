@@ -43,7 +43,7 @@ book:
         - coding-community.qmd
         - data-wrangling.qmd
         - git-tips.qmd
-        - r.qmd
+        - r-code.qmd
         - shiny.qmd
     - part: "Work-life balance 🧘‍♀️"
       chapters: 
