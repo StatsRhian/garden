@@ -2,9 +2,9 @@
 
 ## Saving lists to excel tabs
 
-```
+```{r}
 #| eval: false
-#| library(ggplot2)
+library(ggplot2)
 data("diamonds")
 diamonds_split <- dplyr::split(diamonds, diamonds$cut)
 writexl::write_xlsx(diamonds_split, path = "diamonds_by_cut.xlsx")
