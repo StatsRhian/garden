@@ -32,6 +32,11 @@ That shift led me to embrace rebase: squashing clutter, rewording for clarity, a
 
 Gitmoji didn’t just make my commits pretty, it made them better. And my work day got a little more fun too 🦩
 
+## True CI/CD 
+
+The only way you can truly do continuous integration is with a branching strategy of push-to-main.
+But that's pretty scary.
+
 ## The GitHub Golf trophy ⛳
 
 ## GitHub rulesets

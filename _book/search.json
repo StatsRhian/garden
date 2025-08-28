@@ -4,20 +4,9 @@
     "href": "index.html",
     "title": "My garden",
     "section": "",
-    "text": "Welcome 🌸\nWelcome to my digital garden.\nI made this garden for me, but you’re welcome to wander through it.\n\nposts growing over time - shared early and developed in public\nconstantly growing, evolving, and changing",
+    "text": "Welcome 🌸\nWelcome to my digital garden.\nI struggle with long form blogging, so this a space for slowly turning shower-thoughts and stories into little opinionated snippets.\nMy aim is to create a space where ideas are:\n\nshared early\ndeveloped in public\nconstantly growing, evolving, and changing\n\nI made this garden for me, but you’re welcome to wander through it. :seed:",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome 🌸</span>"
-    ]
-  },
-  {
-    "objectID": "now.html",
-    "href": "now.html",
-    "title": "Now",
-    "section": "",
-    "text": "What I’m focusing on now",
-    "crumbs": [
-      "About me",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Now</span>"
     ]
   },
   {
@@ -28,7 +17,7 @@
     "text": "What happens next?\nRemember that bit of “You’ve been framed” where the video would start to play before the ad break and then you had to guess what happens next?",
     "crumbs": [
       "Teaching 👩‍🏫",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Training others</span>"
     ]
   },
   {
@@ -39,7 +28,7 @@
     "text": "I use this technique when teaching all the time\nType something into the console\nI ask myself (literally outloud) what is going to happen when I press this button",
     "crumbs": [
       "Teaching 👩‍🏫",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Training others</span>"
     ]
   },
   {
@@ -50,7 +39,7 @@
     "text": "Embarassing moments\ndata(afinn, package = “jrTidyverse2”) afinn %&gt;% filter(value == -5) sharing screen with whatsapp / slack open\n“starfucks”\nSharing screen whilst tidytuesday was a sweary one\nDrawing a map of Anglesey",
     "crumbs": [
       "Teaching 👩‍🏫",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Training others</span>"
     ]
   },
   {
@@ -61,7 +50,29 @@
     "text": "Share “what we learned” notes afterwards",
     "crumbs": [
       "Teaching 👩‍🏫",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Training others</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Training others</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html",
+    "href": "communication.html",
+    "title": "Communication",
+    "section": "",
+    "text": "Don’t talk yourself down\nThese are all statements I’ve heard from brilliant colleagues when presenting their work.\nI love working with smart, humble people. Much better than egotistical idiots. But when sharing your ideas publicly, please don’t down talk yourself unnecessarily. We’re listening to you for a reason, and if you start saying this stuff enough, people start to believe you.",
+    "crumbs": [
+      "Leadership ☂️",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#dont-talk-yourself-down",
+    "href": "communication.html#dont-talk-yourself-down",
+    "title": "Communication",
+    "section": "",
+    "text": "“I bet you’re all bored”\n“This work isn’t very good”\n“You probably don’t care about this”",
+    "crumbs": [
+      "Leadership ☂️",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Communication</span>"
     ]
   },
   {
@@ -146,7 +157,18 @@
     "href": "tools.html#my-favourite-vs-code-positron-extensions",
     "title": "Tools",
     "section": "My favourite VS code / Positron extensions",
-    "text": "My favourite VS code / Positron extensions\nI use Positron as my daily IDE\n\nSynthwave ’84 theme\nGitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)\nGitmoji\n\nSee why I love Gitmoji Gitmoji taught me to love modular commits 😍 ## Maintain your tools\nLook after your biking/paddling kit -&gt; look after your programming kit",
+    "text": "My favourite VS code / Positron extensions\nI use Positron as my daily IDE\n\nSynthwave ’84 theme\nGitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)\nGitmoji\n\nSee why I love Gitmoji Gitmoji taught me to love modular commits 😍",
+    "crumbs": [
+      "How I work 🚀",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tools</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html#maintain-your-tools",
+    "href": "tools.html#maintain-your-tools",
+    "title": "Tools",
+    "section": "Maintain your tools",
+    "text": "Maintain your tools\nLook after your biking/paddling kit -&gt; look after your programming kit",
     "crumbs": [
       "How I work 🚀",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tools</span>"
@@ -197,11 +219,11 @@
     ]
   },
   {
-    "objectID": "remote-working.html#how-to-run-a-good-standup-team-meeting",
-    "href": "remote-working.html#how-to-run-a-good-standup-team-meeting",
+    "objectID": "remote-working.html#how-to-run-a-good-team-standup",
+    "href": "remote-working.html#how-to-run-a-good-team-standup",
     "title": "Remote working",
-    "section": "How to run a good standup / team meeting",
-    "text": "How to run a good standup / team meeting\nWe have a team meeting every Monday. We like to check in on how everyone is, but as the team has grown, not everyone has time to speak. This is what we currently do.\nIn advance of the weekly stand-up, all team members share a short summary, in Slack, answering the following questions:\n\n⭐ What went well last week\n🦉 What lessons did you learn\n🎯 Goal(s) for this week\n\nTwo folk are randomly selected to actually speak in the meeting. This keeps standups not too long, whilst making sure it’s not just the same voices always sharing.\nWe encourage reflection over listing\nE.g. - :x: C&C was good, nice retro, did some inputs dev, caught up on my emails. - :white_check_mark: I’ve been practicing being less self-deprecating in meetings and successfully did a coffee & code session without down-talking my ability :raised_hands::skin-tone-2:",
+    "section": "How to run a good team standup",
+    "text": "How to run a good team standup\nWe have a team meeting every Monday. We like to check in on how everyone is, but as the team has grown, not everyone has time to speak. This is what we currently do.\nIn advance of the weekly stand-up, all team members share a short summary, in Slack, answering the following questions:\n\n⭐ What went well last week\n🦉 What lessons did you learn\n🎯 Goal(s) for this week\n\nTwo folk are randomly selected to actually speak in the meeting. This keeps standups not too long, whilst making sure it’s not just the same voices always sharing.\nWe encourage reflection over listing, for example;\n\n❌ C&C was good, nice retro, did some inputs dev, caught up on my emails.\n✅ I’ve been practicing being less self-deprecating in meetings and successfully did a coffee & code session without down-talking my ability 🙌",
     "crumbs": [
       "How I work 🚀",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Remote working</span>"
@@ -312,6 +334,17 @@
     "title": "Git tips",
     "section": "Gitmoji taught me to love modular commits 😍",
     "text": "Gitmoji taught me to love modular commits 😍\nI started using Gitmoji because it looked fun 🌟 but eventually, it changed how I write commits.\nPicking an emoji forced me to pause and ask: What’s actually happening in this commit? Instead of dumping changes together, I began writing smaller, focused commits with clear messages.\nI also had to learn a little of how to rebase, as I found my\nThat shift led me to embrace rebase: squashing clutter, rewording for clarity, and keeping histories clean. Reviews got easier too—stepping through commits in GitHub became smooth and logical.\nGitmoji didn’t just make my commits pretty, it made them better. And my work day got a little more fun too 🦩",
+    "crumbs": [
+      "Coding 👩‍💻",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
+    ]
+  },
+  {
+    "objectID": "git-tips.html#true-cicd",
+    "href": "git-tips.html#true-cicd",
+    "title": "Git tips",
+    "section": "True CI/CD",
+    "text": "True CI/CD\nThe only way you can truly do continuous integration is with a branching strategy of push-to-main. But that’s pretty scary.",
     "crumbs": [
       "Coding 👩‍💻",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Git tips</span>"
@@ -439,11 +472,11 @@
     ]
   },
   {
-    "objectID": "shiny.html#seperate-ui-and-server",
-    "href": "shiny.html#seperate-ui-and-server",
+    "objectID": "shiny.html#separate-ui-and-server",
+    "href": "shiny.html#separate-ui-and-server",
     "title": "Shiny",
-    "section": "Seperate UI and server",
-    "text": "Seperate UI and server\n\nFrom Colin Fay’s book",
+    "section": "Separate UI and server",
+    "text": "Separate UI and server\n\nFrom Colin Fay’s book",
     "crumbs": [
       "Coding 👩‍💻",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Shiny</span>"

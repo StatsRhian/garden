@@ -4,21 +4,29 @@ project:
 book:
   title: "My garden"
   author: "Rhian Davies"
+  page-footer:
+    right: |
+      Little thoughts from <a href="https://rhian.rbind.io/">Rhian Davies</a> 🌱. Built with <a href="https://quarto.org/">Quarto</a> 💜.
+  cover-image: flower.jpg
+  cover-image-alt: "A pretty flower I like"
+  navbar:
+    search: true
+  favicon: favicon.ico
+  #site-url: https://r4ds.hadley.nz/
   repo-url: https://www.github.com/statsrhian/garden
+  repo-branch: main
   repo-actions: [edit, issue]
   sidebar:
     collapse-level: 1
   chapters:
     - index.qmd
-    - part: "About me"
-      chapters: 
-        - now.qmd
     - part: "Career 🎓"  
     - part: "Teaching 👩‍🏫" 
       chapters:
         - training.qmd
     - part: "Leadership ☂️"
       chapters: 
+        - communication.qmd
         - leadership.qmd
         - teams.qmd
     - part: "Consultancy 💼"
@@ -43,11 +51,6 @@ book:
         - log-off.qmd
     - everything-else.qmd
     - part: "Book Notes 📖"
-cover-image: flower.jpg
-cover-image-alt: "A pretty flower I like"
-navbar:
-  search: true
-bibliography: references.bib
 
 format:
   html:
@@ -56,6 +59,7 @@ format:
     theme:
       - cosmo
       - brand
+    author-meta: "Rhian Davies"
 
 
 

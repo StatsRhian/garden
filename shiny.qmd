@@ -10,7 +10,7 @@ What I do instead
 
 https://github.com/StatsRhian/nolem
 
-## Seperate UI and server
+## Separate UI and server
 
 - From Colin Fay's book
 
