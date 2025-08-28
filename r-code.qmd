@@ -2,7 +2,7 @@
 
 ## Saving lists to excel tabs
 
-```{r}
+```
 #| eval: false
 #| library(ggplot2)
 data("diamonds")
