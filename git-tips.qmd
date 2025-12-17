@@ -46,7 +46,7 @@ But that's pretty scary.
 Rulesets help you to control how people can interact with branches and tags in a repository. 
 A ruleset is a named list of rules that applies to a repository. You can have up to 75 rulesets per repository.
 
-## Who can use them
+### Who can use them
 
 - Public repos for GitHub free, public and private repositories with paid plans
 - Paid feature: you can set up organisation level rulesets
