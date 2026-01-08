@@ -13,3 +13,34 @@ writexl::write_xlsx(diamonds_split, path = "diamonds_by_cut.xlsx")
 - `write_xlsx()`: Takes the list and writes each element to a separate sheet in a single Excel file.
 
 Each sheet will correspond to a different diamond cut (Ideal, Premium, Good, Very Good, Fair).
+
+
+## Using `I()` to Force JSON Arrays
+
+### The Problem
+- Had a tibble that I converted to a named list for JSON export
+- Used `jsonlite::toJSON()` with `auto_unbox = TRUE` (needed for other fields)
+- Single-element vectors were being converted to scalars: `"level_down": "EY52"` 
+- My JSON schema required ALL values to be arrays: `"level_down": ["EY52"]`
+- Multi-element vectors worked fine, only single values broke
+
+### The Solution
+
+Wrapping them with `I()` forced them to stay as arrays
+
+```r
+selections |>
+  dplyr::group_by(.data$choice) |>
+  dplyr::summarise(hrg_codes = list(.data$hrg_code)) |>
+  tibble::deframe() |>
+  purrr::map(I)  # <- This is the magic
+```
+
+Note that `I()` has to be applied after `deframe()`
+
+### What is `I()`?
+
+- Stands for "AsIs" - it's a class wrapper
+- Tells R: "don't mess with this, keep it as-is"
+- In {jsonlite}: protects vectors from unboxing even when `auto_unbox = TRUE`
+- In data frames: prevents lists from being simplified when subsetting
